@@ -1,10 +1,8 @@
-# login_app
+# Flutter-Login-App
 
-A new Flutter application.
+Siimple UI Login Flutter application.
 
 ## Getting Started
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
-# Flutter-Login-App
-# Flutter-Login-App
